@@ -16,6 +16,6 @@ Dataset **student_scores.xlsx** yang dapat Anda peroleh di dalam repositori ini.
 [Google Colab](https://colab.research.google.com/) digunakan sebagai kode editor atau tempat untuk membuat dan menjalankan kode program proyek ini.
 
 ## About Me
-Jika Anda memiliki beberapa pertanyaan dan timbal balik terkait kode program ini, Anda dapat mengirim hal tersebut melalui Email ke farrelpaksiaditya@gmail.com dan LinkedIn https://www.linkedin.com/in/farrel-paksi-aditya-
+Jika Anda memiliki beberapa pertanyaan dan timbal balik terkait kode program ini, Anda dapat mengirim hal tersebut melalui Email ke farrelpaksiaditya@gmail.com dan LinkedIn https://www.linkedin.com/in/farrel-paksi-aditya-4248002a5
 
 #Supervisedlearning #ML #Python
