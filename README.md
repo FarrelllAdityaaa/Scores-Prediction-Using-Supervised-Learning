@@ -17,3 +17,5 @@ Dataset **student_scores.xlsx** yang dapat Anda peroleh di dalam repositori ini.
 
 ## About Me
 Jika Anda memiliki beberapa pertanyaan dan timbal balik terkait kode program ini, Anda dapat mengirim hal tersebut melalui Email ke farrelpaksiaditya@gmail.com dan LinkedIn https://www.linkedin.com/in/farrel-paksi-aditya
+
+#supervisedlearning #ML #Python
